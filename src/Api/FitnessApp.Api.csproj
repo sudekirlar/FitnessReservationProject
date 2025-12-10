@@ -12,7 +12,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<!-- Sadece Swashbuckle, başka OpenAPI paketi yok -->
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="10.0.1" />
 	</ItemGroup>
 
